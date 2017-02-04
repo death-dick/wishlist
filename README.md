@@ -27,4 +27,6 @@
 
 “blog book” // $12.00 // https://www.amazon.com/selected-unpublished-mexican-express-employee/dp/0982206720
 
+“they both do it, and fleas” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
+
 “”
