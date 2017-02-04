@@ -7,13 +7,13 @@
 
 “cassette tape” // $8.00 (email:samuel.helgeson@ucdenver.edu) // https://gssultan.bandcamp.com
 
-“microphone” // $8.09 // https://www.amazon.com/gp/aw/d/B00WW6TNXK/ref=mp_s_a_1_3
+“microphone” // $8.09 // https://www.amazon.com/gp/aw/d/B00WW6TNXK
 
-“apocalypse book” // $15.04 // https://www.amazon.com/gp/aw/d/1558618910/ref=mp_s_a_1_2
+“apocalypse book” // $15.04 // https://www.amazon.com/gp/aw/d/1558618910
 
 “tshirt” // $35.00 // https://autechre.bleepstores.com/release/77196-autechre-elseq-asphalt-t-shirt
 
-“high expectations” // $10.50 // https://www.amazon.com/gp/aw/d/0802131557/ref=mp_s_a_1_1
+“high expectations” // $10.50 // https://www.amazon.com/gp/aw/d/0802131557
 
 “pocket castle” // $79.00 // https://www.perfectcircuitaudio.com/kastle-handheld-modular-synthesizer.html
 
@@ -30,5 +30,7 @@
 “they both do it, and fleas” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
 
 “cassette tape” // $8.00 // https://hausumountain.bandcamp.com/album/drip-mental
+
+“can ride w/o these” // $24.00 // https://www.amazon.com/Pure-42cm-Alloy-Handlebar-Black/dp/B006R1IU5S
 
 “”
