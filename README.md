@@ -27,15 +27,13 @@
 
 “blog book” // $12.00 // https://www.amazon.com/selected-unpublished-mexican-express-employee/dp/0982206720
 
-“they both do it, and fleas” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
+“birds/bees” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
 
 “cassette tape” // $8.00 // https://hausumountain.bandcamp.com/album/drip-mental
 
-“can ride w/o these” // $24.00 // https://www.amazon.com/Pure-42cm-Alloy-Handlebar-Black/dp/B006R1IU5S
+“horns” // $24.00 // https://www.amazon.com/Pure-42cm-Alloy-Handlebar-Black/dp/B006R1IU5S
 
 “renoise license” // $75.00 // http://renoise.com/shop
-
-“holy grail” // $300+ // https://www.amazon.com/Pittsburgh-Modular-EP-96-Enclosure-Eurorack/dp/B01BVYWTO8/
 
 “flacs” // $8? // https://boomkat.com/products/sh-51bef2ef-bcbb-42cd-9e10-a427ff8bdb04
 
