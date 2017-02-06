@@ -35,6 +35,8 @@
 
 “renoise license” // $75.00 // http://renoise.com/shop
 
-“holy grail” // $300"+ // https://www.amazon.com/Pittsburgh-Modular-EP-96-Enclosure-Eurorack/dp/B01BVYWTO8/
+“holy grail” // $300+ // https://www.amazon.com/Pittsburgh-Modular-EP-96-Enclosure-Eurorack/dp/B01BVYWTO8/
+
+“flacs” // $8? // https://boomkat.com/products/sh-51bef2ef-bcbb-42cd-9e10-a427ff8bdb04
 
 “”
