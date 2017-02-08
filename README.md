@@ -37,4 +37,8 @@
 
 “flacs” // $8? // https://boomkat.com/products/sh-51bef2ef-bcbb-42cd-9e10-a427ff8bdb04
 
+“compendium” // $7 // https://www.amazon.com/dp/1540567516/
+
+“con book” // $? // https://www.amazon.com/Notes-Conceptualisms-Vanessa-Place/dp/1933254467/
+
 “”
