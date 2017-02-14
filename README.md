@@ -31,6 +31,6 @@
 
 “baby” // $5.38 // http://www.lulu.com/shop/holly-melgard/poems-for-baby-trilogy-i-colors-for-baby/paperback/product-15237960.html
 
-“zine” // $3 // https://jump-over-the-age.itch.io/heterotopias-001
+“mouth book” // $15 // https://www.amazon.com/Things-Your-Mouth-Trench-Art/dp/1934254525/
 
 “”
