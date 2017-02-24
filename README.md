@@ -33,4 +33,6 @@
 
 “mouth book” // $15 // https://www.amazon.com/Things-Your-Mouth-Trench-Art/dp/1934254525/
 
+“shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
+
 “”
