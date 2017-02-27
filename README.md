@@ -1,6 +1,4 @@
 # wishlist
-“hentai” // $12.97 // http://www.lulu.com/shop/chris-alexander/hentai-変態/paperback/product-20665193.html
-
 “printed web book” // $25.00 // http://shop.lotpw.com/products/printedweb1
 
 “across&beyond” // $? (email to order?!) // https://transmediale.de/content/across-beyond
@@ -16,8 +14,6 @@
 “modular synth keychain” // $7.00 // https://www.etsy.com/listing/276513354/char-ch-4-way-multiple-key-chain-modular
 
 “blog book” // $12.00 // https://www.amazon.com/selected-unpublished-mexican-express-employee/dp/0982206720
-
-“birds/bees” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
 
 “cassette tape” // $8.00 // https://hausumountain.bandcamp.com/album/drip-mental
 
@@ -36,3 +32,11 @@
 “shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
 
 “”
+
+
+already purchased:
+
+“hentai” // $12.97 // http://www.lulu.com/shop/chris-alexander/hentai-変態/paperback/product-20665193.html
+
+“birds/bees” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
+
