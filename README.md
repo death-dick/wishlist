@@ -31,6 +31,10 @@
 
 “shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
 
+“ring” // $11 // http://spectrumboutique.com/product/toyfriend-buddy-adjustable-silicone-cock-ring/
+
+“patchbay” // $25 // http://www.musicgoroundlittleton.com/p/656632/used-neutrik-patch-bay-other
+
 “”
 
 
