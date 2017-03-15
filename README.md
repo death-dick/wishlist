@@ -9,8 +9,6 @@
 
 “computer book” // $15.00 // https://www.amazon.com/flux-journal-Wretched-Screen/dp/1934105821
 
-“still life” // $16.10 // http://www.lulu.com/shop/chris-sylvester/still-life-w-blog-071213-0424pm-0512pm-264-pgs-msword-101813-345pm-595-pgs-msword/paperback/product-21261972.html
-
 “modular synth keychain” // $7.00 // https://www.etsy.com/listing/276513354/char-ch-4-way-multiple-key-chain-modular
 
 “blog book” // $12.00 // https://www.amazon.com/selected-unpublished-mexican-express-employee/dp/0982206720
@@ -31,16 +29,6 @@
 
 “shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
 
-“ring” // $11 // http://spectrumboutique.com/product/toyfriend-buddy-adjustable-silicone-cock-ring/
-
 “patchbay” // $25 // http://www.musicgoroundlittleton.com/p/656632/used-neutrik-patch-bay-other
 
 “”
-
-
-already purchased:
-
-“hentai” // $12.97 // http://www.lulu.com/shop/chris-alexander/hentai-変態/paperback/product-20665193.html
-
-“birds/bees” // $3.97 // http://www.lulu.com/shop/sarah-dowling/birds-bees/paperback/product-20471368.html
-
