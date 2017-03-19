@@ -13,8 +13,6 @@
 
 “blog book” // $12.00 // https://www.amazon.com/selected-unpublished-mexican-express-employee/dp/0982206720
 
-“cassette tape” // $8.00 // https://hausumountain.bandcamp.com/album/drip-mental
-
 “horns” // $24.00 // https://www.amazon.com/Pure-42cm-Alloy-Handlebar-Black/dp/B006R1IU5S
 
 “flacs” // $8? // https://boomkat.com/products/sh-51bef2ef-bcbb-42cd-9e10-a427ff8bdb04
@@ -28,7 +26,5 @@
 “mouth book” // $15 // https://www.amazon.com/Things-Your-Mouth-Trench-Art/dp/1934254525/
 
 “shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
-
-“patchbay” // $25 // http://www.musicgoroundlittleton.com/p/656632/used-neutrik-patch-bay-other
 
 “”
