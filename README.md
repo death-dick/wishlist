@@ -29,4 +29,6 @@
 
 “cassette tape” // $8 // http://nnatapes.com/available-releases/lea-bertucciall-that-is-solid-melts-into-air/
 
+“kim book” // ~$25 // http://www.jean-boite.fr/box/kim-jong-il-looking-at-things-
+
 “”
