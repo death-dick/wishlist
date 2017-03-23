@@ -27,4 +27,6 @@
 
 “shoes” // $50 // http://www.vans.com/shop/canvas-authentic-true-white
 
+“cassette tape” // $8 // http://nnatapes.com/available-releases/lea-bertucciall-that-is-solid-melts-into-air/
+
 “”
