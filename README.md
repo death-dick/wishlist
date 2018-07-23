@@ -1,9 +1,9 @@
 # wishlist
 
-Amazon wishlist // https://www.amazon.com/gp/registry/wishlist/3TXL8VMHEV1L6
+Amazon // https://www.amazon.com/gp/registry/wishlist/8U3KICRGJW0L/
 
-“Flarf: An Anthology of Flarf.” // $24 + s.h. // http://www.aerialedge.com/FLARFANANTHOLOGYOFFLARF.htm
+Blanket // https://www.coldpicnic.com/blankets/
 
-“Stupid sticker” // $2 + s.h. // https://kingsroadmerch.com/the-locust/view/?id=3504
+
 
 “”
