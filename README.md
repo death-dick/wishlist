@@ -1,8 +1,8 @@
 # wishlist
 
-Amazon // https://www.amazon.com/gp/registry/wishlist/8U3KICRGJW0L/
+Amazon // https://www.amazon.com/hz/wishlist/ls/UAJ28OD04NZN
 
-Blanket // https://www.coldpicnic.com/blankets/
+Nonbar // https://eatnonfood.com/products/nonbar2
 
 
 
